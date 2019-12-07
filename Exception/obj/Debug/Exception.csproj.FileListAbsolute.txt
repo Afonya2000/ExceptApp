@@ -1,0 +1,9 @@
+c:\users\afanasiy\documents\visual studio 2015\Projects\Exception\Exception\bin\Debug\Exception.exe.config
+c:\users\afanasiy\documents\visual studio 2015\Projects\Exception\Exception\bin\Debug\Exception.exe
+c:\users\afanasiy\documents\visual studio 2015\Projects\Exception\Exception\bin\Debug\Exception.pdb
+c:\users\afanasiy\documents\visual studio 2015\Projects\Exception\Exception\obj\Debug\Exception.csprojResolveAssemblyReference.cache
+c:\users\afanasiy\documents\visual studio 2015\Projects\Exception\Exception\obj\Debug\Exception.Form1.resources
+c:\users\afanasiy\documents\visual studio 2015\Projects\Exception\Exception\obj\Debug\Exception.Properties.Resources.resources
+c:\users\afanasiy\documents\visual studio 2015\Projects\Exception\Exception\obj\Debug\Exception.csproj.GenerateResource.Cache
+c:\users\afanasiy\documents\visual studio 2015\Projects\Exception\Exception\obj\Debug\Exception.exe
+c:\users\afanasiy\documents\visual studio 2015\Projects\Exception\Exception\obj\Debug\Exception.pdb
